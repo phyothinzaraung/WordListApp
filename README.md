@@ -1,2 +1,2 @@
 # WordListApp
-Show word list in RecyclerView that are save in Room Database
+Show word list in RecyclerView that are saved in Room Database
